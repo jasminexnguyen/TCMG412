@@ -1,0 +1,4 @@
+[submodule "tcmg412p1/public1"]
+	path = tcmg412p1/public1
+	url = https://github.com/jasminexnguyen/tcmg412.gtihub.io.git
+	branch = main
